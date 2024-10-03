@@ -81,6 +81,7 @@ DATABASES = {
         "NAME": "HW23_1",
         "USER": "postgres",
         "PASSWORD": "201023",
+        # "HOST": "db",
         "HOST": "127.0.0.1",
         "PORT": 5432,
     }
